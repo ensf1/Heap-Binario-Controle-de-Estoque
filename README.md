@@ -6,7 +6,7 @@ Prof. MSc. Ricardo Nunes**
 
 **Discente:** Esther Nascimento Soares de Freitas
 
-###Lista com todo o conteúdo de consultado para realização do projeto:
+### Lista com todo o conteúdo de consultado para realização do projeto:
 - material do Classroom da disciplina
 - [6.10. Binary Heap Implementation](https://panda.ime.usp.br/pythonds/static/pythonds_pt/06-Arvores/BinaryHeapImplementation.html)
 - [Heap Sort – Data Structures and Algorithms Tutorials](https://www.geeksforgeeks.org/heap-sort/)
